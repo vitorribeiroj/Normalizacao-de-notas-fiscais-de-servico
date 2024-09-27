@@ -1,0 +1,5 @@
+C:\Users\Vitor\Desktop\Aplicativo Gerador de NFS-e para FiscalizaJE\GeradorArquivosTSE.exe
+C:\Users\Vitor\Desktop\Aplicativo Gerador de NFS-e para FiscalizaJE\GeradorArquivosTSE.dll
+C:\Users\Vitor\Desktop\Aplicativo Gerador de NFS-e para FiscalizaJE\GeradorArquivosTSE.deps.json
+C:\Users\Vitor\Desktop\Aplicativo Gerador de NFS-e para FiscalizaJE\GeradorArquivosTSE.runtimeconfig.json
+C:\Users\Vitor\Desktop\Aplicativo Gerador de NFS-e para FiscalizaJE\GeradorArquivosTSE.pdb

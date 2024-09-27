@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MPI7WBq6FBdPo14SxeOXeEo5NfnVLv6nyxpgzlo5uV+lmPq44dj8kafkdqbzQNtIH6jqY7i2AXkk4fnkW7gF6w==",
+  "success": true,
+  "projectFilePath": "C:\\Vitor\\Trabalho\\PBH\\Programa - Envio de NFS TSE\\Aplicativo Para Geração dos Arquivos\\GeradorArquivosTSE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vitor\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

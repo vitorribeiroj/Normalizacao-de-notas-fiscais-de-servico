@@ -1,0 +1,6 @@
+C:\Vitor\Trabalho\PBH\Programa - Envio de NFS TSE\Aplicativo Gerador de NFS-e para FiscalizaJE\files\GeradorArquivosTSE.exe
+C:\Vitor\Trabalho\PBH\Programa - Envio de NFS TSE\Aplicativo Gerador de NFS-e para FiscalizaJE\files\GeradorArquivosTSE.dll
+C:\Vitor\Trabalho\PBH\Programa - Envio de NFS TSE\Aplicativo Gerador de NFS-e para FiscalizaJE\files\GeradorArquivosTSE.deps.json
+C:\Vitor\Trabalho\PBH\Programa - Envio de NFS TSE\Aplicativo Gerador de NFS-e para FiscalizaJE\files\GeradorArquivosTSE.runtimeconfig.json
+C:\Vitor\Trabalho\PBH\Programa - Envio de NFS TSE\Aplicativo Gerador de NFS-e para FiscalizaJE\files\GeradorArquivosTSE.pdb
+C:\Vitor\Trabalho\PBH\Programa - Envio de NFS TSE\Aplicativo Gerador de NFS-e para FiscalizaJE\files\CsvHelper.dll
